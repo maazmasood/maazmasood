@@ -6,9 +6,9 @@ A passionate full-stack developer with over 4 years of experience building scala
 ## 💻 Featured Projects
 Here are some of the projects I've worked on:
 
+- [**KlimaNrw**](https://www.klimanrw.de/) - HVAC seller becoming top-notch with $25,000+ revenue. We helped *Klima-nrw GMBH* design and develop their website, along with implementing marketing techniques to boost sales.
 - [**Influencer Collective**](https://influencercollective.com) - A platform connecting influencers with leading brands for impactful collaborations.
 - [**MediRises**](https://medirises.com) - A healthcare solution designed to provide medical advice and resources to users.
-- [**KlimaNrw**](https://www.klimanrw.de/) - HVAC seller becoming top-notch with $25,000+ revenue. We helped *Klima-nrw GMBH* design and develop their website, along with implementing marketing techniques to boost sales.
 - [**CCHSLLC**](https://cchsllc.com/) - Medical Doctor landing page with eye-catching design. We helped *CCHSLLC* stand out in a highly saturated niche by running a competitive analysis.
 
 ---
