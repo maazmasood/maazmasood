@@ -10,7 +10,8 @@ Here are some of the projects I've worked on:
 - [**Influencer Collective**](https://influencercollective.com) - A platform connecting influencers with leading brands for impactful collaborations.
 - [**MediRises**](https://medirises.com) - A healthcare solution designed to provide medical advice and resources to users.
 - [**CCHSLLC**](https://cchsllc.com/) - Medical Doctor landing page with eye-catching design. We helped *CCHSLLC* stand out in a highly saturated niche by running a competitive analysis.
-
+- [**3D Tech Landing Page**](https://tech-landing-page-mu.vercel.app/) - A landing page featuring advanced 3D models and animations. This project showcases complex structural animations and 3D objects to create an interactive experience. Available on GitHub.
+- [**Hashed QR Code Generator**](https://github.com/maazmasood/SecureQRCodeGenerator) - A secure QR code generator that uses hashing algorithms for extra security. Available on GitHub.
 ---
 
 ## 🔧 Skills & Technologies
