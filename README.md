@@ -1,28 +1,111 @@
-# Hi, I'm Maaz Masood 👋
-A passionate full-stack developer with over 4 years of experience building scalable web applications using modern technologies like **Next.js**, **Node.js**, and **PHP** , **Laravel** as well. I specialize in full-stack developments and Buiness Web Applications. I'm also the founder of [**FutureAscend**](https://futureascend.com), where we help businesses grow through website development, digital marketing, and personal branding solutions.
+# Maaz Masood
 
----
+AI Engineer & Full Stack Developer
+
+📧 maazmasood001@gmail.com \| 📱 +92-347-1531171 \|
+[LinkedIn](https://www.linkedin.com/in/maazzmasood/) \|
+[GitHub](https://github.com/maazmasood) \|
+[Upwork](https://www.upwork.com/freelancers/~019089f1bc23f1dea6)
+
+------------------------------------------------------------------------
+
+## 👋 Hi, I'm Maaz Masood
+
+A passionate **AI Engineer & Full-Stack Developer** with over 4 years of
+experience building scalable web applications using modern technologies
+like **Next.js**, **Node.js**, **PHP**, and **Laravel**. I specialize in
+full-stack development, AI-driven applications, and Business Web
+Solutions.
+
+------------------------------------------------------------------------
+
+## 💼 Professional Experience
+
+### **AI Engineer** --- MediRises LLC, USA *(Remote)*
+
+*July 2024 -- Present* - Architected an AI-driven collaborative platform
+enabling real-time co-editing, drawing, and annotation using Next.js,
+Node.js, and LLaMA-based models. - Integrated **speech-to-text** and
+**NLP pipelines** for predictive typing, semantic suggestions, and
+intent extraction. - Built a **real-time synchronization engine** with
+WebSockets supporting concurrent multi-user sessions. - Designed
+**AI-powered autosave & summarization** modules leveraging
+transformers. - Developed **structured clinical documentation** with
+automatic ICD-10 and CPT code generation.
+
+### **Senior Full Stack Developer** --- Klima NRW, Germany *(Remote)*
+
+*July 2023 -- July 2024* - Developed high-performance web applications
+using **Next.js**, improving e-commerce efficiency by 25%. - Boosted
+organic traffic by 30% through **SEO & SSR/CSR/SSG optimizations**. -
+Automated customer engagement with **SendGrid workflows**, increasing
+retention by 20%. - Reduced load times by 40% using **ISR (Incremental
+Static Regeneration)**.
+
+### **Full Stack Developer** --- SSF Solutions, Pakistan *(Part-time)*
+
+*Oct 2021 -- July 2023* - Built responsive cross-platform applications
+with **jQuery, Bootstrap, and Material UI**. - Reduced page load times
+by 30% with AJAX-powered dynamic data handling. - Designed robust API
+integrations in **Laravel** with real-time validation and security. -
+Optimized databases through normalization, improving performance by 25%.
+
+------------------------------------------------------------------------
 
 ## 💻 Featured Projects
-Here are some of the projects I've worked on:
 
-- [**KlimaNrw**](https://www.klimanrw.de/) - HVAC seller becoming top-notch with $25,000+ revenue. We helped *Klima-nrw GMBH* design and develop their website, along with implementing marketing techniques to boost sales.
-- [**Influencer Collective**](https://influencercollective.com) - A platform connecting influencers with leading brands for impactful collaborations.
-- [**MediRises**](https://medirises.com) - A healthcare solution designed to provide medical advice and resources to users.
-- [**CCHSLLC**](https://cchsllc.com/) - Medical Doctor landing page with eye-catching design. We helped *CCHSLLC* stand out in a highly saturated niche by running a competitive analysis.
-- [**3D Tech Landing Page**](https://tech-landing-page-mu.vercel.app/) - A landing page featuring advanced 3D models and animations. This project showcases complex structural animations and 3D objects to create an interactive experience. Available on GitHub.
-- [**Hashed QR Code Generator**](https://github.com/maazmasood/SecureQRCodeGenerator) - A secure QR code generator that uses hashing algorithms for extra security. Available on GitHub.
----
+-   [**KlimaNrw**](https://www.klimanrw.de/) --- HVAC seller website
+    generating \$25,000+ revenue through design, development, and
+    digital marketing strategies.
+-   [**Influencer Collective**](https://influencercollective.com) --- A
+    platform connecting influencers with brands for impactful
+    collaborations.
+-   [**MediRises**](https://medirises.com) --- Healthcare platform
+    offering medical advice and resources.
+-   [**Hashed QR Code
+    Generator**](https://github.com/maazmasood/SecureQRCodeGenerator)
+    --- A secure QR generator using hashing algorithms.
+- **Tekni Globals** — Canadian crypto exchange where I contributed as **Frontend Developer**.  
+  *(Test login: us3er2@tekni.ca / password123)*
+- **Saola** — Vietnamese startup combining **fitness and crypto rewards system**, where I worked as **Backend & Blockchain Engineer**.
+
+
+------------------------------------------------------------------------
 
 ## 🔧 Skills & Technologies
-- **Front-end**: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-- **Back-end**: ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-- **Databases**: ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-- **Algorithms & AI**: Linear Regression, Constraint Satisfaction Problem (CSP), A* Algorithm
 
----
+-   **Front-end**: HTML5, CSS3, JavaScript, Next.js, React.js, Tailwind
+    CSS, Material UI, Bootstrap
+-   **Back-end**: Node.js, PHP, Laravel, Django
+-   **Databases**: MySQL, SQLite, SQL, NoSQL
+-   **AI & ML**: LLM Tool Use, LangChain, Transformers, Neural Networks,
+    Reinforcement Learning, NLP, Prompt Engineering
+-   **Tools & Platforms**: Git, GitHub, GitLab, Jira, SendGrid, Google
+    Tag Manager
+-   **Other**: Agile (Scrum), Testing (Black-box, White-box), Leadership,
+    Teamwork
 
+------------------------------------------------------------------------
 
-## 📫 Connect with me
-- LinkedIn: [Maaz Masood](https://www.linkedin.com/in/maazzmasood/)
-- Portfolio: [FutureAscend](https://futureascend.com)
+## 📜 Certifications
+
+-   **LangChain for LLM Application Development** --- DeepLearning.AI\
+-   **Finetuning Large Language Models** --- DeepLearning.AI
+
+------------------------------------------------------------------------
+
+## 🎓 Education
+
+**Bachelor in Computer Science** --- National University of Computing
+and Emerging Sciences, Islamabad, Pakistan\
+*Courses: Professional Practices in IT, Fundamentals of Marketing,
+Project Management*
+
+------------------------------------------------------------------------
+
+## 📫 Connect with Me
+
+-   LinkedIn: [Maaz Masood](https://www.linkedin.com/in/maazzmasood/)
+-   GitHub: [maazmasood](https://github.com/maazmasood)
+-   Upwork:
+    [Profile](https://www.upwork.com/freelancers/~019089f1bc23f1dea6)
