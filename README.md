@@ -1,5 +1,5 @@
-# Maaz Masood
-**AI Engineer — FullStack, LangChain, REST APIs**  
+
+# AI Engineer — FullStack, LangChain, REST APIs
 📞 +92-347-1531171 | 📧 maazmasood001@gmail.com | [LinkedIn](https://www.linkedin.com/in/maazmasood) | [GitHub](https://github.com/maazmasood) | [Upwork](https://www.upwork.com/freelancers/~019089f1bc23f1dea6)
 
 ## Professional Summary 🌟
