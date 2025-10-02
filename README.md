@@ -1,111 +1,57 @@
 # Maaz Masood
+**AI Engineer — FullStack, LangChain, REST APIs**  
+📞 +92-347-1531171 | 📧 maazmasood001@gmail.com | [LinkedIn](https://www.linkedin.com/in/maazmasood) | [GitHub](https://github.com/maazmasood) | [Upwork](https://www.upwork.com/freelancers/~019089f1bc23f1dea6)
 
-AI Engineer & Full Stack Developer
+## Professional Summary 🌟
+Experienced AI-Driven Full Stack Developer with over 4 years of hands-on experience in designing and delivering scalable web applications using technologies like Next.js, Node.js, PHP/Laravel, and React.js. Proficient in integrating AI capabilities such as intelligent automation and data-driven decision systems into modern web platforms. Strong background in both front-end and back-end development, and performance optimization. Known for building smart, user-centric solutions that enhance usability, accelerate workflows, and drive measurable business value. Actively seeking senior-level opportunities where AI and web technologies intersect to solve real-world problems.
 
-📧 maazmasood001@gmail.com \| 📱 +92-347-1531171 \|
-[LinkedIn](https://www.linkedin.com/in/maazzmasood/) \|
-[GitHub](https://github.com/maazmasood) \|
-[Upwork](https://www.upwork.com/freelancers/~019089f1bc23f1dea6)
+## Experience 💼
 
-------------------------------------------------------------------------
+### AI Engineer — Full-time  
+**MediRises LLC, USA (Remote)**  
+*July 2024 – Present*  
+- Architected and developed an AI-driven collaborative platform (inspired by Scribble) enabling real-time co-editing, drawing, and annotation using Next.js, Node.js, and LLaMA-based models.  
+- Integrated advanced speech-to-text pipelines using Whisper for predictive typing, semantic suggestions, and intent extraction.  
+- Engineered a low-latency real-time synchronization engine with WebSockets, supporting concurrent multi-user sessions with conflict resolution.  
+- Built AI-powered autosave and summarization modules leveraging transformer-based architectures to generate concise overviews and preserve session state.  
+- Enhanced system scalability by implementing asynchronous task queues and using SQLite as a lightweight storage layer for rapid prototyping and local persistence.  
+- Developed structured clinical documentation modules with automatic generation of ICD-10 and CPT codes, improving medical billing accuracy and workflow efficiency.
 
-## 👋 Hi, I'm Maaz Masood
+### Junior AI Engineer — Full-time  
+**Klima NRW, Germany (Remote)**  
+*July 2023 – July 2024*  
+- Built regression-based prediction models to optimize customer behavior targeting, improving campaign ROI and boosting lead generation.  
+- Developed clustering pipelines for customer segmentation, enabling personalized email marketing strategies that increased retention by 20%.  
+- Designed and integrated an RAG-based chatbot to handle FAQs and customer queries, reducing support response time and enhancing user experience.
 
-A passionate **AI Engineer & Full-Stack Developer** with over 4 years of
-experience building scalable web applications using modern technologies
-like **Next.js**, **Node.js**, **PHP**, and **Laravel**. I specialize in
-full-stack development, AI-driven applications, and Business Web
-Solutions.
+### Full Stack Developer — Part-time  
+**SSF Solutions, Pakistan**  
+*Oct 2021 – July 2023*  
+- Led the development of responsive cross-platform web applications using jQuery, Material UI, and Bootstrap, enhancing user engagement and providing a consistent experience across all devices.  
+- Reduced page load times by 30% through real-time interactivity optimizations using AJAX for dynamic data extraction.  
+- Built robust API integrations with Laravel, streamlining data exchange processes and ensuring real-time data validation and security.  
+- Applied MySQL database normalization to ensure a scalable data structure and maintain referential integrity, improving query performance by 25%.  
+- Collaborated with cross-functional teams to ensure timely delivery of high-performance web solutions, achieving business objectives, and meeting deadlines.
 
-------------------------------------------------------------------------
+## Skills 🛠️
+- **Languages & Frameworks**: JavaScript, TypeScript, PHP, Node.js, React, Next.js, Laravel  
+- **AI & ML**: Classification, Clustering, Regression, Feature Engineering, Model Tuning, Neural Networks, Transformers, Reinforcement Learning, Multi-Agent Systems, LLM Tool Use, Prompt Engineering, LangChain, LangGraph  
+- **Front-End**: Tailwind CSS, Bootstrap, Material UI, SASS, Font Awesome  
+- **Back-End & Databases**: Node.js, Django, PHP, SQL, NoSQL, REST APIs  
+- **Tools & Platforms**: Git, GitHub, GitLab, Jira, SendGrid, GTM, phpMyAdmin  
+- **Methodologies**: Agile (Scrum), White-Box Testing, Unit Testing  
+- **Soft Skills**: Communication, Leadership, Problem Solving, Teamwork, Time Management  
 
-## 💼 Professional Experience
+## Certifications 🎓
+- **LangChain for LLM Application Development**  
+  *DeepLearning.AI*  
+  Completed the "LangChain for LLM Application Development" course, instructed by Harrison Chase and Andrew Ng. This certification deepens expertise in building impactful AI applications by leveraging and chaining language model responses, a powerful technique shaping the future of AI development.  
 
-### **AI Engineer** --- MediRises LLC, USA *(Remote)*
+- **Finetuning Large Language Models**  
+  *DeepLearning.AI*  
+  Completed the "Finetuning Large Language Models" course from DeepLearning.AI. This certification focuses on when to use finetuning versus prompting for LLMs, selecting suitable open-source models, and preparing data to train and evaluate models for specific domains—equipping me with the skills to optimize AI models for real-world applications.
 
-*July 2024 -- Present* - Architected an AI-driven collaborative platform
-enabling real-time co-editing, drawing, and annotation using Next.js,
-Node.js, and LLaMA-based models. - Integrated **speech-to-text** and
-**NLP pipelines** for predictive typing, semantic suggestions, and
-intent extraction. - Built a **real-time synchronization engine** with
-WebSockets supporting concurrent multi-user sessions. - Designed
-**AI-powered autosave & summarization** modules leveraging
-transformers. - Developed **structured clinical documentation** with
-automatic ICD-10 and CPT code generation.
-
-### **Senior Full Stack Developer** --- Klima NRW, Germany *(Remote)*
-
-*July 2023 -- July 2024* - Developed high-performance web applications
-using **Next.js**, improving e-commerce efficiency by 25%. - Boosted
-organic traffic by 30% through **SEO & SSR/CSR/SSG optimizations**. -
-Automated customer engagement with **SendGrid workflows**, increasing
-retention by 20%. - Reduced load times by 40% using **ISR (Incremental
-Static Regeneration)**.
-
-### **Full Stack Developer** --- SSF Solutions, Pakistan *(Part-time)*
-
-*Oct 2021 -- July 2023* - Built responsive cross-platform applications
-with **jQuery, Bootstrap, and Material UI**. - Reduced page load times
-by 30% with AJAX-powered dynamic data handling. - Designed robust API
-integrations in **Laravel** with real-time validation and security. -
-Optimized databases through normalization, improving performance by 25%.
-
-------------------------------------------------------------------------
-
-## 💻 Featured Projects
-
--   [**KlimaNrw**](https://www.klimanrw.de/) --- HVAC seller website
-    generating \$25,000+ revenue through design, development, and
-    digital marketing strategies.
--   [**Influencer Collective**](https://influencercollective.com) --- A
-    platform connecting influencers with brands for impactful
-    collaborations.
--   [**MediRises**](https://medirises.com) --- Healthcare platform
-    offering medical advice and resources.
--   [**Hashed QR Code
-    Generator**](https://github.com/maazmasood/SecureQRCodeGenerator)
-    --- A secure QR generator using hashing algorithms.
-- **Tekni Globals** — Canadian crypto exchange where I contributed as **Frontend Developer**.  
-  *(Test login: us3er2@tekni.ca / password123)*
-- **Saola** — Vietnamese startup combining **fitness and crypto rewards system**, where I worked as **Backend & Blockchain Engineer**.
-
-
-------------------------------------------------------------------------
-
-## 🔧 Skills & Technologies
-
--   **Front-end**: HTML5, CSS3, JavaScript, Next.js, React.js, Tailwind
-    CSS, Material UI, Bootstrap
--   **Back-end**: Node.js, PHP, Laravel, Django
--   **Databases**: MySQL, SQLite, SQL, NoSQL
--   **AI & ML**: LLM Tool Use, LangChain, Transformers, Neural Networks,
-    Reinforcement Learning, NLP, Prompt Engineering
--   **Tools & Platforms**: Git, GitHub, GitLab, Jira, SendGrid, Google
-    Tag Manager
--   **Other**: Agile (Scrum), Testing (Black-box, White-box), Leadership,
-    Teamwork
-
-------------------------------------------------------------------------
-
-## 📜 Certifications
-
--   **LangChain for LLM Application Development** --- DeepLearning.AI\
--   **Finetuning Large Language Models** --- DeepLearning.AI
-
-------------------------------------------------------------------------
-
-## 🎓 Education
-
-**Bachelor in Computer Science** --- National University of Computing
-and Emerging Sciences, Islamabad, Pakistan\
-*Courses: Professional Practices in IT, Fundamentals of Marketing,
-Project Management*
-
-------------------------------------------------------------------------
-
-## 📫 Connect with Me
-
--   LinkedIn: [Maaz Masood](https://www.linkedin.com/in/maazzmasood/)
--   GitHub: [maazmasood](https://github.com/maazmasood)
--   Upwork:
-    [Profile](https://www.upwork.com/freelancers/~019089f1bc23f1dea6)
+## Education 📚
+**Bachelor, Computer Science (2021–2025)**  
+*National University of Computing and Emerging Sciences, Islamabad, Pakistan*  
+**Extra Courses**: Professional Practices in IT, Fundamentals of Marketing, Project Management
