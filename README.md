@@ -61,15 +61,19 @@ Experienced AI-Driven Full Stack Developer with over 4 years of hands-on experie
 
 - **Building Multi-Tool AI Agents with MongoDB**  
   *MongoDB*  
-  Completed a hands-on certification for creating a multi-tool AI agent that leverages data stored in MongoDB. Gained expertise in defining decision-making capabilities of agents, effectively utilizing multiple tools, and implementing both long-term and short-term memory for AI agents using MongoDB. *(Certificate: Maazmasood-certificate-ai-agent-with-mongoDb.pdf)*  
+  Completed a hands-on certification for creating a multi-tool AI agent that leverages data stored in MongoDB. Gained expertise in defining decision-making capabilities of agents, effectively utilizing multiple tools, and implementing both long-term and short-term memory for AI agents using MongoDB.  
+  [View Certificate](https://www.credly.com/badges/f5fd2170-5b7f-421e-b953-3fde5f0bbd89/)
 
 - **LangChain for LLM Application Development**  
   *DeepLearning.AI*  
   Completed the "LangChain for LLM Application Development" course, instructed by Harrison Chase and Andrew Ng. This certification deepens expertise in building impactful AI applications by leveraging and chaining language model responses, a powerful technique shaping the future of AI development.  
+  [View Certificate](https://learn.deeplearning.ai/accomplishments/574b7f1d-b476-43a4-bd1a-9848da3c0089?usp=sharing)
 
 - **Finetuning Large Language Models**  
   *DeepLearning.AI*  
-  Completed the "Finetuning Large Language Models" course from DeepLearning.AI. This certification focuses on when to use finetuning versus prompting for LLMs, selecting suitable open-source models, and preparing data to train and evaluate models for specific domains—equipping me with the skills to optimize AI models for real-world applications.
+  Completed the "Finetuning Large Language Models" course from DeepLearning.AI. This certification focuses on when to use finetuning versus prompting for LLMs, selecting suitable open-source models, and preparing data to train and evaluate models for specific domains—equipping me with the skills to optimize AI models for real-world applications.  
+  [View Certificate](https://learn.deeplearning.ai/accomplishments/cac323d2-878e-426a-b80c-d779fa280772?usp=sharing)
+
 
 
 ## Education 📚
