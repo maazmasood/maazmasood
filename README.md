@@ -19,42 +19,20 @@ Experienced AI-Driven Full Stack Developer with over 4 years of hands-on experie
 
 ## Skills 🛠️  
 
+### Languages & Frameworks
+JavaScript, TypeScript, PHP, Node.js, React, Next.js, Laravel
 
-### Languages & Frameworks  
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,php,nodejs,react,nextjs,laravel&perline=7&theme=light" />
-  </a>
-</p>
+### AI & ML
+Python, scikit-learn, PyTorch, OpenCV, GraphQL, Transformers
 
-### AI & ML 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,scikitlearn,pytorch,opencv,graphql,transformers&perline=6&theme=light" />
-  </a>
-</p>
+### Front-End
+TailwindCSS, Bootstrap, Material-UI, Sass, FontAwesome
 
-### Front-End  
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwindcss,bootstrap,materialui,sass,fontawesome&perline=5&theme=light" />
-  </a>
-</p>
-
-### Back-End & Databases  
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,mysql,mongodb,postgresql,restapi&perline=5&theme=light" />
-  </a>
-</p>
+### Back-End & Databases
+Django, MySQL, MongoDB, PostgreSQL, REST APIs
 
 ### Tools & Platforms
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,jira&perline=4&theme=light" />
-  </a>
-</p>
-
+Git, GitHub, GitLab, Jira
 
 
 ## Certifications 🎓
