@@ -58,6 +58,11 @@ Experienced AI-Driven Full Stack Developer with over 4 years of hands-on experie
 
 
 ## Certifications 🎓
+
+- **Building Multi-Tool AI Agents with MongoDB**  
+  *MongoDB*  
+  Completed a hands-on certification for creating a multi-tool AI agent that leverages data stored in MongoDB. Gained expertise in defining decision-making capabilities of agents, effectively utilizing multiple tools, and implementing both long-term and short-term memory for AI agents using MongoDB. *(Certificate: Maazmasood-certificate-ai-agent-with-mongoDb.pdf)*  
+
 - **LangChain for LLM Application Development**  
   *DeepLearning.AI*  
   Completed the "LangChain for LLM Application Development" course, instructed by Harrison Chase and Andrew Ng. This certification deepens expertise in building impactful AI applications by leveraging and chaining language model responses, a powerful technique shaping the future of AI development.  
@@ -65,6 +70,7 @@ Experienced AI-Driven Full Stack Developer with over 4 years of hands-on experie
 - **Finetuning Large Language Models**  
   *DeepLearning.AI*  
   Completed the "Finetuning Large Language Models" course from DeepLearning.AI. This certification focuses on when to use finetuning versus prompting for LLMs, selecting suitable open-source models, and preparing data to train and evaluate models for specific domains—equipping me with the skills to optimize AI models for real-world applications.
+
 
 ## Education 📚
 **Bachelor, Computer Science (2021–2025)**  
