@@ -10,10 +10,8 @@ Experienced AI-Driven Full Stack Developer with over 4 years of hands-on experie
 ### AI Product Engineer — Full-time  
 **MediRises LLC, USA (Remote)**  
 *July 2024 – Present*  
-- I architected a real-time AI collaborative platform using Next.js, Node.js, and WebSockets, integrating LLaMA and Whisper for advanced speech-to-text and intent extraction. The system features low-latency multi-user synchronization and transformer-based modules for automated summarization and state preservation. Additionally, I streamlined healthcare workflows by developing clinical documentation tools that automatically generate ICD-10 and CPT codes for improved billing accuracy.
-
 
 ## Education 📚
-**Bachelor, Computer Science (2021–2025)**  
+**Bachelor, Computer Science (2021)**  
 *National University of Computing and Emerging Sciences, Islamabad, Pakistan*  
 **Extra Courses**: Professional Practices in IT, Fundamentals of Marketing, Project Management
